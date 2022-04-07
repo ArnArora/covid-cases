@@ -1,2 +1,2 @@
 # covid-cases
-Uses worldometers.info to get the number of COVID cases in any country.
+Uses worldometers.info to get the realtime COVID cases in any country inputted by the user. 
